@@ -1,0 +1,75 @@
+{
+  "glyphs": {
+    "R": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 0 0 l 0 1000 l 400 1000 q 200 1000 200 800 q 200 600 400 600 l 0 600 m 0 600 l 400 600 q 200 600 200 400 q 200 200 400 200 l 0 200"
+    },
+    "E": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 0 0 l 0 1000 l 600 1000 m 0 0 l 600 0 m 0 500 l 600 500 m 0 1000 l 600 1000"
+    },
+    "C": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 600 800 q 400 800 400 600 q 400 400 600 400 m 600 800 q 400 800 400 600 q 400 400 600 400"
+    },
+    "O": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 0 400 q 0 200 200 200 q 400 200 400 400 q 400 600 200 600 q 0 600 0 400 m 0 400 q 0 200 200 200 q 400 200 400 400 q 400 600 200 600 q 0 600 0 400"
+    },
+    "N": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 0 0 l 0 1000 l 200 1000 l 600 0 l 600 1000 m 0 0 l 0 1000 l 200 1000 l 600 0 l 600 1000"
+    },
+    "F": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 0 0 l 0 1000 l 600 1000 m 0 0 l 600 0 m 0 500 l 600 500"
+    },
+    "Y": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 0 1000 l 300 500 l 600 1000 m 300 500 l 300 0"
+    }
+  },
+  "familyName": "Helvetiker",
+  "ascender": 1000,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {
+    "yMin": -200,
+    "yMax": 1000,
+    "xMin": 0,
+    "xMax": 600
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Copyright (c) 2011 by Pablo Impallari. All rights reserved.",
+    "notice": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "trademark": "Helvetiker is a trademark of Pablo Impallari.",
+    "manufacturer": "Pablo Impallari",
+    "designer": "Pablo Impallari",
+    "description": "Helvetiker is a trademark of Pablo Impallari.",
+    "vendorURL": "http://www.impallari.com",
+    "designerURL": "http://www.impallari.com",
+    "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "licenseURL": "http://scripts.sil.org/OFL",
+    "version": "Version 1.0"
+  },
+  "cssFontWeight": "normal",
+  "cssFontStyle": "normal"
+}
+
