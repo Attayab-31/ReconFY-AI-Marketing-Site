@@ -1,20 +1,23 @@
 // ReconFy Marketing Website Configuration
 // This file contains configuration variables for the marketing website
+// Environment variables can override these values:
+// - NEXT_PUBLIC_APP_URL overrides appUrl
+// - NEXT_PUBLIC_DEMO_URL overrides demoUrl
 
 export const config = {
-  appUrl: 'https://main.d2ukbtk1dng1se.amplifyapp.com',
-  demoUrl: 'https://app.reconfy.com',
+  appUrl: process.env.NEXT_PUBLIC_APP_URL || 'https://www.myreconfy.com',
+  demoUrl: process.env.NEXT_PUBLIC_DEMO_URL || 'https://demo.myreconfy.com',
   
   // Alternative URLs (uncomment and modify as needed)
   // appUrl: 'https://reconfy.com/app',
   // appUrl: 'https://dashboard.reconfy.com',
   
   // Marketing website URL
-  marketingUrl: 'https://reconfy.com',
+  marketingUrl: 'https://reconfy.ai',
   
   // Contact information
   contact: {
-    email: 'hello@reconfy.com',
+    email: 'support@reconfy.com',
     phone: '+1 (555) 123-4567',
     address: '123 Business Ave, Tech City, TC 12345'
   },
